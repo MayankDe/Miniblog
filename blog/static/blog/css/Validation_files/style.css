@@ -1,0 +1,18 @@
+body{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+.pd{
+    width: 300px;
+    height: 300px;
+}
+.tool{
+    padding-top: 100px;
+    margin-left: 400px;
+}
+bg_c{
+    background-image: url(imgjok.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}

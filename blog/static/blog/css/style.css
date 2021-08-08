@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(46, 48, 56);
+    color: antiquewhite;
+}
+.form-control{
+    background-color: rosybrown;
+}
+.jumbo{
+    background-color: rgb(70, 64, 64);
+}
+.pd{
+    
+  
+    width: 400px;
+
+}
+.frame{
+   
+    background-color: rgb(11, 1, 24);
+}
+.imgcrop{
+    height: 10px;
+    width: 53px;
+
+}
