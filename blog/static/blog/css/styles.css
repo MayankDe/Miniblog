@@ -1,0 +1,26 @@
+body{
+    /* background-color:rgba(56, 46, 56, 0.87); */
+    background-color: slategrey;
+    color: black;
+}
+.form-control{
+    background-color: rosybrown;
+}
+.jumbo{
+    background-color: rgb(199, 184, 184);
+}
+.pd{
+    
+  
+    width: 400px;
+
+}
+.frame{
+   
+    background-color: rgb(223, 216, 233);
+}
+.imgcrop{
+    height: 10px;
+    width: 53px;
+
+}
